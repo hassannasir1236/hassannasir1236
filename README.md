@@ -1,3 +1,6 @@
+<p align="center">
+  <img alt="Coding" width="450" src="https://camo.githubusercontent.com/ba24c6d7ea2c51fdc44d5d91c4f748d5a671ef3e5a913d1e1deda390cf437637/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a6b2d536e6b32714f616d35475a2d5f532e676966">
+</p>
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 <h3 align="center">Full Stack Developer</h3>
 
